@@ -1,0 +1,2 @@
+# squaplProjectRep
+Squapl project repository
